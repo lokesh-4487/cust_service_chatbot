@@ -110,5 +110,7 @@ JSON data structure
 Rule-based AI logic
 
 Importance of clean project structure
+#Output#
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/e39158b0-4fb4-4156-91d3-56baefb2ccb2" />
 
 This project is simple but powerful for beginners. It builds a strong foundation before moving to advanced NLP-based chatbots using machine learning.
